@@ -39,5 +39,5 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/wordpress-icon-1.svg" title="WordPress" alt="WordPress" width="40" height="40"/>&nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/shopify.svg" title="Shopify" alt="Shopify" width="40" height="40"/>&nbsp;
-  <img src="https://static.cdnlogo.com/logos/g/84/go-high-level.svg" title="Go High Level" alt="Go High Level" width="40" height="40"/>&nbsp;
+
 </div>
